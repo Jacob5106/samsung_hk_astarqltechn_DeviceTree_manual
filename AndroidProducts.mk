@@ -7,3 +7,7 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_astarqltechn.mk
+
+COMMON_LUNCH_CHOICES := omni_astarqltechn-user
+COMMON_LUNCH_CHOICES := omni_astarqltechn-userdebug
+COMMON_LUNCH_CHOICES := omni_astarqltechn-eng
